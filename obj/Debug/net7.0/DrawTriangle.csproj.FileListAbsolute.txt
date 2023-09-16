@@ -1,0 +1,14 @@
+C:\Users\Teknoport\Ugur\DrawTriangle\bin\Debug\net7.0\DrawTriangle.exe
+c:\Users\Teknoport\Ugur\DrawTriangle\bin\Debug\net7.0\DrawTriangle.deps.json
+c:\Users\Teknoport\Ugur\DrawTriangle\bin\Debug\net7.0\DrawTriangle.runtimeconfig.json
+C:\Users\Teknoport\Ugur\DrawTriangle\bin\Debug\net7.0\DrawTriangle.dll
+C:\Users\Teknoport\Ugur\DrawTriangle\bin\Debug\net7.0\DrawTriangle.pdb
+C:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfo.cs
+C:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\DrawTriangle.dll
+C:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\refint\DrawTriangle.dll
+C:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\DrawTriangle.pdb
+c:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\DrawTriangle.genruntimeconfig.cache
+c:\Users\Teknoport\Ugur\DrawTriangle\obj\Debug\net7.0\ref\DrawTriangle.dll
